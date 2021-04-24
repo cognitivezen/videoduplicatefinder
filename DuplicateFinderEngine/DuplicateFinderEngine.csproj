@@ -5,6 +5,7 @@
     <Platforms>AnyCPU;x64</Platforms>
     <LangVersion>preview</LangVersion>
     <NullableContextOptions>enable</NullableContextOptions>
+    <Nullable>annotations</Nullable>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
