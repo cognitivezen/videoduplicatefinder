@@ -262,3 +262,6 @@ __pycache__/
 
 # OS Specific rules
 .DS_Store
+/VideoDuplicateFinder.Windows/ffprobe.exe
+/VideoDuplicateFinder.Windows/ffplay.exe
+/VideoDuplicateFinder.Windows/ffmpeg.exe
